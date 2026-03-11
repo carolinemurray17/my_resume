@@ -13,18 +13,54 @@ html {
     margin-bottom: 10px;
 }
 
+.about {
+    text-align: center;
+    background-color: #DCD6F7;
+    margin: 10px 10px;
+    padding: 10px;
+    border: 1px solid #A6B1E1;
+}
+
+.experience {
+    background-color: #DCD6F7;
+    margin: 10px 10px;
+    padding: 10px;
+    border: 1px solid #A6B1E1;
+}
+
+.education {
+    background-color: #DCD6F7;
+    margin: 10px 10px;
+    padding: 10px;
+    border: 1px solid #A6B1E1;
+}
+
+.skills {
+    background-color: #DCD6F7;
+    margin: 10px 10px;
+    padding: 10px;
+    border: 1px solid #A6B1E1;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
+
 #headshot {
     width: 15%;
-    border: 5px solid #DCD6F7;
+    border: 5px solid #A6B1E1;
     margin-left: 46%;
-    margin-bottom: 10px;
     width: 8%;
 }
 
-.about {
-    text-align: center;
-    background-color: #A6B1E1;
-    padding: 1px;
+#colgate-logo {
+    margin-left: 10px;
+}
+
+#indeed-logo {
+    margin-left: 10px;
 }
 
 #about-text {
@@ -38,32 +74,10 @@ html {
     margin-bottom: 10px;
 }
 
-footer {
-    text-align: center;
-    background-color: #A6B1E1;
-    padding: 10px;
-    
+#experience-list {
+    margin-left: 15px;
 }
 
 h2 {
     text-align: center;
 }
-
-.education {
-    background-color: #A6B1E1;
-    padding: 1px;
-}
-
-.skills {
-    text-align: center;
-}
-
-#colgate-logo {
-    margin-left: 10px;
-}
-
-#indeed-logo {
-    margin-left: 10px;
-}
-
-
