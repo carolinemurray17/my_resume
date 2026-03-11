@@ -16,8 +16,9 @@ html {
 #headshot {
     width: 15%;
     border: 5px solid #DCD6F7;
-    margin-left: 42.5%;
+    margin-left: 46%;
     margin-bottom: 10px;
+    width: 8%;
 }
 
 .about {
