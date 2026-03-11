@@ -34,8 +34,8 @@ html {
 }
 
 #about-me-list {
-    margin-left: 42%;
-    margin-right: 43%;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 footer {
